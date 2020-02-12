@@ -1017,7 +1017,7 @@ las dos sentencias `if`. En vez de eso, utiliza una expresión lógica compuesta
 utilizando el operador lógico `or` con una sola sentencia
 `if`.**
 
-Glosariso
+Glosario
 --------
 
 alias
